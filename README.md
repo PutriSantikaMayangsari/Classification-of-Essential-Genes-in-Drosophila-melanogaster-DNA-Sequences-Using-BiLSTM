@@ -1,4 +1,4 @@
-Classification-of-Essential-Genes-in-Drosophila-melanogaster-DNA-Sequences-Using-BiLSTM
+# Classification-of-Essential-Genes-in-Drosophila-melanogaster-DNA-Sequences-Using-BiLSTM# 
 Project Status: Completed Bachelor's Thesis
 
 Objective:
@@ -14,7 +14,7 @@ Dataset:
   (Beder et al., NAR Genomics and Bioinformatics, 2021).
 
 workflow:
-<img width="1025" height="1689" alt="image" src="https://github.com/user-attachments/assets/66c0fc31-0cee-4c89-b970-96d1bb7069a3" /># 
+<img width="1025" height="1689" alt="image" src="https://github.com/user-attachments/assets/66c0fc31-0cee-4c89-b970-96d1bb7069a3" />
 
 Note:
 Source code is not publicly available.
