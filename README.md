@@ -14,7 +14,7 @@ Dataset:
   (Beder et al., NAR Genomics and Bioinformatics, 2021).
 
 workflow:
-<img width="1025" height="1689" alt="image" src="https://github.com/user-attachments/assets/66c0fc31-0cee-4c89-b970-96d1bb7069a3" />
+<img width="165" height="337" alt="image" src="https://github.com/user-attachments/assets/c6139744-3040-4eac-a2d5-50b6e7b4fde0" />
 
 Note:
 Source code is not publicly available.
