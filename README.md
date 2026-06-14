@@ -23,7 +23,7 @@ result:
 
 ## Thesis Document
 
-The full undergraduate thesis is available at:
+The full Bachelor's thesis is available at:
 
 https://digilib.unila.ac.id/82560/3/Skripsi_2057051011_Putri%20Santika%20Mayangsari_Tanpa%20Pembahasan%20-%20Putri%20Santika.pdf
 
