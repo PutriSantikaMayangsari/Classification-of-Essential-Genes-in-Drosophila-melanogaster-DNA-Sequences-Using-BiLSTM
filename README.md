@@ -1,2 +1,14 @@
 # Classification-of-Essential-Genes-in-Drosophila-melanogaster-DNA-Sequences-Using-BiLSTM
-Bachelor’s Thesis: Classification  of Essential Genes in Drosophila  melanogaster DNA Sequences  Using Bidirectional Long Short Term Memory (BiLSTM) 
+Project Status: Completed Bachelor's Thesis
+
+Objective:
+Classification of essential genes in Drosophila melanogaster DNA sequences.
+
+Method:
+- Bidirectional LSTM
+
+Dataset:
+- DNA Sequences
+
+Note:
+Source code is not publicly available.
