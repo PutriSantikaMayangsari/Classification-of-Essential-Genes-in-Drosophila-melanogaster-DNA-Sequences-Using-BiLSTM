@@ -21,5 +21,11 @@ result:
 
 <img width="269" height="299" alt="image" src="https://github.com/user-attachments/assets/7fb4e945-586f-4f81-86b6-861f5ab1fee9" />
 
+## Thesis Document
+
+The full undergraduate thesis is available at:
+
+https://digilib.unila.ac.id/82560/3/Skripsi_2057051011_Putri%20Santika%20Mayangsari_Tanpa%20Pembahasan%20-%20Putri%20Santika.pdf
+
 Note:
 Source code is not publicly available.
